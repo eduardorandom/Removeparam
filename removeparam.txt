@@ -80,7 +80,7 @@ Design from this list so credit to them
 *$removeparam=quid
 *$removeparam=campaign
 
-!https://shopsonix.com/collections/sonix-x-hello-kitty-and-friends?attribution_window=30&contact_id=0b00f8c7-70a5-4bf7-9f46-aa8f90e15e3b&link_id=1211874&platform=grin&token=71On96WgXtdtspcgNm2y2a9U5yXwTZmV
+!https://shopsonix.com/
 *$removeparam=attribution_window
 *$removeparam=contact_id
 *$removeparam=link_id
