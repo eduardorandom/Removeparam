@@ -11,7 +11,7 @@
 ! License: n/a
 ! Format: abp
 ! Version: 14March2024
-! Release: 6
+! Release: 6.5
 ! Expires: 7 days
 ! Entries: <150
 ! Updated: Friday, 25 August 25
@@ -162,7 +162,6 @@ Design from this list so credit to them
 *$removeparam=sr_
 *$removeparam=crid
 *$removeparam=keywords
-*$removeparam=s
 *$removeparam=sbo
 *$removeparam=sprefix
 
@@ -171,7 +170,6 @@ Design from this list so credit to them
 *$removeparam=crid
 *$removeparam=sprefix
 *$removeparam=ref
-*$removeparam=s
 *$removeparam=th
 
 !https://appsumo.com/products/ocoya
