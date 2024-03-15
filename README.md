@@ -5,6 +5,8 @@
 
 
 
-Other Examples<br>
-https://github.com/ClearURLs/Rules
-
+<h2>Other Examples</h2><br>
+ClearURLs<br>
+https://github.com/ClearURLs/Rules<br>
+AdGuard URL Tracking Protection<br>
+https://filters.adtidy.org/extension/ublock/filters/17.txt
