@@ -10,8 +10,8 @@
 ! Homepage: https://github.com/eduardorandom/Removeparam
 ! License: n/a
 ! Format: abp
-! Version: 16March2024
-! Release: 8
+! Version: 9April2024
+! Release: 9
 ! Expires: 7 days
 ! Entries: <150
 ! Updated: Friday, 25 August 25
@@ -41,11 +41,14 @@ Design from this list so credit to them
 ! Error On reddit, shows weird symbols on people's profiles
 !
 !*$removeparam=cn
-!Error on Google.com, prevents switching accounts
+! Error on Google.com, prevents switching accounts
 !
 !https://wetransfer.com/pricing?term=wetransfer&medium=US_P-B_Cs&source=Bing
 !*$removeparam=source
-//Prevent youtube from playing
+! Prevents youtube from playing
+!
+!*$removeparam=d
+! crashes facebook ads
 ! ----------------------------------------------------------------------------
 ! START
 ! ----------------------------------------------------------------------------
@@ -126,7 +129,6 @@ Design from this list so credit to them
 *$removeparam=subid
 *$removeparam=csk
 *$removeparam=site_id
-*$removeparam=d
 
 !https://business.facebook.com/thedaringorchid/?business_id=2349427188508326&modal=admin_todo_tour
 *$removeparam=business_id
