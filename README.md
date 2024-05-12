@@ -3,7 +3,7 @@ My Github Repo that has a list to remove utm in links
 
 - [Click here to add Ublock List](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/eduardorandom/Removeparam/main/removeparam.txt&title=Removeparam)
 
-# What is Utms?
+# What are Utms?
 See my blog post for more information
 https://eduardorandom.com/how-utms-are-useful-for-marketing-reports/
 This shows common utms but overtime, there can be other utms that are less known such as custom utms as well
