@@ -264,3 +264,15 @@ Design from this list so credit to them
 !https://mobirise.com/?AFFILIATE=125174&__c=1
 *$removeparam=AFFILIATE
 *$removeparam=__c
+
+!https://platform.cloudways.com/signup?ref_id=blog_hellobar
+*$removeparam=ref_id
+
+!https://www.etsy.com/shop/__?from_page=listing
+*$removeparam=from_page
+
+!https://www.mediafire.com/upgrade/?mf_source=sidebar&mf_medium=website&mf_content=upgrade_pro&mf_campaign=upgrade_v2_20210816)
+*$removeparam=mf_source
+*$removeparam=mf_medium
+*$removeparam=mf_content
+*$removeparam=mf_campaign
