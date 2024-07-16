@@ -258,6 +258,25 @@ Design from this list so credit to them
 *$removeparam=mf_content
 *$removeparam=mf_campaign
 !
+https://abc7.com/post/mexican-taco-stand-michelin-star-tiny-business-heat/14827310/?link_source=ta_first_comment
+*$removeparam=
+!
+https://www.admincolumns.com/?coupon_code=seopress15
+*$removeparam=coupon_code
+!
+https://appsumo.com/products/fable/?variation=A
+*$removeparam=variation
+!
+https://infography.in/?aff=WRGpY
+*$removeparam=aff
+!
+https://visualsitemaps.com/?gr_pk=Yxyp
+*$removeparam=gr_pk
+!
+https://woooplugin.com/?wpam_id=33
+*$removeparam=wpam_id
+!
+!
 ! ----------------------------------------------------------------------------
 ! Specific Domain START (Later)
 ! ----------------------------------------------------------------------------
