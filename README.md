@@ -9,8 +9,14 @@ https://eduardorandom.com/how-utms-are-useful-for-marketing-reports/<br>
 <br>
 This shows common utms but overtime, there can be other utms that are less known such as custom utms as well
 
-<h2>Other Examples</h2><br>
+# <h2>Other Examples</h2><br>
 ClearURLs<br>
 https://github.com/ClearURLs/Rules<br>
 AdGuard URL Tracking Protection<br>
 https://filters.adtidy.org/extension/ublock/filters/17.txt
+(Part of Ublock Already)
+
+# For More lists 
+See<br>
+https://filterlists.com/
+
