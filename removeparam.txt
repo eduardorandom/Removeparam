@@ -10,11 +10,11 @@
 ! Homepage: https://github.com/eduardorandom/Removeparam
 ! License: n/a
 ! Format: abp
-! Version: 11May2024
-! Release: 10
+! Version: 15July2024
+! Release: 11
 ! Expires: 7 days
 ! Entries: <150
-! Updated: Saturday, 11 May 24
+! Updated: Monday, 15 July 24
 !
 ! ----------------------------------------------------------------------------
 ! Other Suggestions to keep anyway
@@ -24,9 +24,9 @@
 !https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
 !https://gitlab.com/DandelionSprout/adfilt/raw/master/StopAutoplayOnYouTube.txt
 !https://raw.githubusercontent.com/liamengland1/miscfilters/a5a0895a146e13a85de44dc8a310ed451e472404/antipaywall.txt
-!https://filters.adtidy.org/extension/ublock/filters/3.txt
 !https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 !https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
+!https://malware-filter.gitlab.io/pup-filter/pup-filter.txt
 !
 Design from this list so credit to them
 !https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/filter.txt
